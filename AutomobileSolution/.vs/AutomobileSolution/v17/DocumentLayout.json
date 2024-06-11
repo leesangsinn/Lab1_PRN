@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN_Lab1_AutomobileSolution-main\\AutomobileSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|d:\\prn_lab1_automobilesolution-main\\automobilesolution\\automobilewinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933A7862-5530-4D81-A999-143C5BD39D86}|AutomobileWinApp\\AutomobileWinApp.csproj|solutionrelative:automobilewinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{722A9B05-281E-4182-B599-280DBA539E3B}|AutomobileLibrary\\AutomobileLibrary.csproj|d:\\prn_lab1_automobilesolution-main\\automobilesolution\\automobilelibrary\\automobilelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{722A9B05-281E-4182-B599-280DBA539E3B}|AutomobileLibrary\\AutomobileLibrary.csproj|solutionrelative:automobilelibrary\\automobilelibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN_Lab1_AutomobileSolution-main\\AutomobileSolution\\AutomobileWinApp\\Program.cs",
+              "RelativeDocumentMoniker": "AutomobileWinApp\\Program.cs",
+              "ToolTip": "D:\\PRN_Lab1_AutomobileSolution-main\\AutomobileSolution\\AutomobileWinApp\\Program.cs",
+              "RelativeToolTip": "AutomobileWinApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:13:51.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutomobileLibrary",
+              "DocumentMoniker": "D:\\PRN_Lab1_AutomobileSolution-main\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
+              "RelativeDocumentMoniker": "AutomobileLibrary\\AutomobileLibrary.csproj",
+              "ToolTip": "D:\\PRN_Lab1_AutomobileSolution-main\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
+              "RelativeToolTip": "AutomobileLibrary\\AutomobileLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T14:13:47.539Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

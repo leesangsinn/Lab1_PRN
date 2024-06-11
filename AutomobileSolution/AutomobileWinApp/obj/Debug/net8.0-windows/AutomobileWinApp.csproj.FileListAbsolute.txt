@@ -1,0 +1,43 @@
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.frmCarDetails.resources
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.AssemblyInfo.cs
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.sourcelink.json
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.exe
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.deps.json
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.runtimeconfig.json
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.dll
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.pdb
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileLibrary.dll
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileLibrary.pdb
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\Automobi.42224D16.Up2Date
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.dll
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\refint\AutomobileWinApp.dll
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.pdb
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.genruntimeconfig.cache
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\ref\AutomobileWinApp.dll
+C:\Users\minhl\source\repos\EXC\New folder\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.frmCarManagement.resources
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.exe
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.deps.json
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.runtimeconfig.json
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.dll
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileWinApp.pdb
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileLibrary.dll
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\bin\Debug\net8.0-windows\AutomobileLibrary.pdb
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.frmCarDetails.resources
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.frmCarManagement.resources
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.AssemblyInfo.cs
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\Automobi.42224D16.Up2Date
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.dll
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\refint\AutomobileWinApp.dll
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.pdb
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\AutomobileWinApp.genruntimeconfig.cache
+D:\PRN_Lab1_AutomobileSolution-main\AutomobileSolution\AutomobileWinApp\obj\Debug\net8.0-windows\ref\AutomobileWinApp.dll
